@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a7feda8-2d65-47fd-bb52-ee830f537065" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../matplotlib_examples/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../matplotlib_examples/matplotlib_examples/spiders/ExamplesSpider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scrapy_book/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Scrapy_task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Scrapy_task.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scrapy_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapy_book/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3a7feda8-2d65-47fd-bb52-ee830f537065" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,12 +195,12 @@
       <workItem from="1555219067343" duration="6070000" />
       <workItem from="1555379957599" duration="5895000" />
       <workItem from="1555414447416" duration="1195000" />
-      <workItem from="1555484817429" duration="1357000" />
+      <workItem from="1555484817429" duration="1670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14517000" />
+    <option name="totallyTimeSpent" value="14830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -222,6 +213,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2596154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
