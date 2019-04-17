@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e558f799-a600-4294-9bf5-b37677b7a8ca" name="Default Changelist" comment="" />
+    <list default="true" id="e558f799-a600-4294-9bf5-b37677b7a8ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Scrapy_task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Scrapy_task.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/scrapy_book/spiders/BookSpider.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="278">
-              <caret line="21" column="68" lean-forward="true" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
               <folding>
                 <element signature="e#74#87#0" expanded="true" />
               </folding>
@@ -45,6 +52,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -59,6 +69,7 @@
     <option name="width" value="1390" />
     <option name="height" value="999" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -108,12 +119,12 @@
       <updated>1555402910503</updated>
       <workItem from="1555402911854" duration="1216000" />
       <workItem from="1555414445778" duration="2131000" />
-      <workItem from="1555484817528" duration="3942000" />
+      <workItem from="1555484817528" duration="4541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7289000" />
+    <option name="totallyTimeSpent" value="7888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
@@ -132,7 +143,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33072627" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -155,7 +166,7 @@
     <entry file="file://$PROJECT_DIR$/scrapy_book/spiders/BookSpider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
-          <caret line="21" column="68" lean-forward="true" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
           <folding>
             <element signature="e#74#87#0" expanded="true" />
           </folding>
