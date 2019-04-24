@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e558f799-a600-4294-9bf5-b37677b7a8ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Scrapy_task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Scrapy_task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_example/login_example/spiders/examplelogin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matplotlib_examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../matplotlib_examples/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,19 +15,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapy_book/spiders/BookSpider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
+            <state relative-caret-position="152">
               <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
-              <folding>
-                <element signature="e#74#87#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy.cfg">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -63,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="382" />
     <option name="y" value="33" />
     <option name="width" value="1390" />
@@ -83,6 +78,17 @@
               <item name="scrapy_book" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapy_book" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="scrapy_book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_book" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapy_book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_book" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_book" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -91,7 +97,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -120,16 +126,17 @@
       <workItem from="1555402911854" duration="1216000" />
       <workItem from="1555414445778" duration="2131000" />
       <workItem from="1555484817528" duration="4541000" />
+      <workItem from="1556090069623" duration="603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7888000" />
+    <option name="totallyTimeSpent" value="8491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1032" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2596154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -156,6 +163,11 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/books.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3900" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_book/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -163,23 +175,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_book/spiders/BookSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
-          <folding>
-            <element signature="e#74#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3900" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_book/spiders/BookSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
