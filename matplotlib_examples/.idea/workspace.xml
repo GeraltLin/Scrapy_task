@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf2c983c-fd2d-4c04-9a66-800d8e8530a5" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/../login_example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../login_example/login_example/spiders/examplelogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/splash_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/splash_examples/spiders/QuotesSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/splash_examples/spiders/jd_book.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../login_example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scrapy_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapy_book/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -28,13 +35,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/matplotlib_examples/spiders/ExamplesSpider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="296">
+              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="25" />
               <folding>
                 <element signature="e#74#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../splash_examples/splash_examples/spiders/jd_book.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="41" column="88" selection-start-line="41" selection-start-column="88" selection-end-line="41" selection-end-column="88" />
+              <folding>
+                <element signature="e#74#113#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,10 +76,10 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/matplotlib_examples/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="-1090">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
@@ -85,14 +104,15 @@
         <option value="$PROJECT_DIR$/matplotlib_examples/pipelines.py" />
         <option value="$PROJECT_DIR$/matplotlib_examples/spiders/ExamplesSpider.py" />
         <option value="$PROJECT_DIR$/matplotlib_examples/settings.py" />
+        <option value="$PROJECT_DIR$/../splash_examples/splash_examples/spiders/jd_book.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="382" />
-    <option name="y" value="33" />
-    <option name="width" value="1390" />
-    <option name="height" value="999" />
+    <option name="x" value="-328" />
+    <option name="y" value="122" />
+    <option name="width" value="1380" />
+    <option name="height" value="1006" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,6 +150,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../scrapy_book" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/matplotlib_examples/spiders" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,7 +208,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555496795012</updated>
       <workItem from="1555496796449" duration="4136000" />
-      <workItem from="1556087519620" duration="2576000" />
+      <workItem from="1556087519620" duration="3913000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1555503249838</created>
@@ -196,12 +221,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6712000" />
+    <option name="totallyTimeSpent" value="8049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25320512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25320512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -215,7 +241,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -252,20 +278,30 @@
     <entry file="file://$PROJECT_DIR$/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplotlib_examples/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/matplotlib_examples/spiders/ExamplesSpider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="296">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="25" />
           <folding>
             <element signature="e#74#87#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../splash_examples/splash_examples/spiders/jd_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="41" column="88" selection-start-line="41" selection-start-column="88" selection-end-line="41" selection-end-column="88" />
+          <folding>
+            <element signature="e#74#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib_examples/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1090">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

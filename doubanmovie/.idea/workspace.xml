@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e507169c-4e4d-47fd-aef8-bdb6991f5549" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/doubanmovie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doubanmovie/spiders/MoviesSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy_list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/example/spiders/scdx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_example/proxy_example/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_example/proxy_example/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_example/proxy_example/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_example/proxy_example/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/splash_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/splash_examples/spiders/QuotesSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/splash_examples/spiders/jd_book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/example/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../example/example/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../login_example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matplotlib_examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../matplotlib_examples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrapy_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapy_book/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doubanmovie/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="129" column="62" selection-start-line="129" selection-start-column="46" selection-end-line="129" selection-end-column="71" />
+              <folding>
+                <element signature="e#245#1907#0" />
+                <element signature="e#1961#3604#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/scrapy/core/downloader/middleware.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doubanmovie/spiders/MoviesSpider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <element signature="e#74#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/movies_日本.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1113">
+              <caret line="53" column="2" selection-start-line="53" selection-end-line="53" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/movies_动作.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doubanmovie/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doubanmovie/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy_list.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/movies_韩国.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>headers</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/doubanmovie/middlewares.py" />
+        <option value="$PROJECT_DIR$/movies.csv" />
+        <option value="$PROJECT_DIR$/doubanmovie/spiders/tt.py" />
+        <option value="$PROJECT_DIR$/doubanmovie/settings.py" />
+        <option value="$PROJECT_DIR$/proxy_list.json" />
+        <option value="$PROJECT_DIR$/doubanmovie/spiders/MoviesSpider.py" />
+        <option value="$PROJECT_DIR$/movies_冷门佳片.csv" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="498" />
+    <option name="y" value="150" />
+    <option name="width" value="1380" />
+    <option name="height" value="1006" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="doubanmovie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/doubanmovie" />
+      <recent name="$PROJECT_DIR$/doubanmovie/spiders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doubanmovie/spiders" />
+      <recent name="$PROJECT_DIR$/doubanmovie" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e507169c-4e4d-47fd-aef8-bdb6991f5549" name="Default Changelist" comment="" />
+      <created>1556266596243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556266596243</updated>
+      <workItem from="1556266597749" duration="2228000" />
+      <workItem from="1556286715145" duration="733000" />
+      <workItem from="1556287457187" duration="816000" />
+      <workItem from="1556288587670" duration="12705000" />
+      <workItem from="1556361230674" duration="1065000" />
+      <workItem from="1556362313532" duration="4672000" />
+      <workItem from="1556367347698" duration="4530000" />
+      <workItem from="1556373888540" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27343000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2724359" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.18994413" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doubanmovie/spiders/tt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_经典.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_豆瓣高分.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_热门.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_华语.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_欧美.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5908" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_喜剧.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3692" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_冷门佳片.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="129" column="62" selection-start-line="129" selection-start-column="46" selection-end-line="129" selection-end-column="71" />
+          <folding>
+            <element signature="e#245#1907#0" />
+            <element signature="e#1961#3604#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/scrapy/core/downloader/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_日本.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="53" column="2" selection-start-line="53" selection-end-line="53" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_动作.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies_韩国.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/spiders/MoviesSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#74#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

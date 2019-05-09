@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a7feda8-2d65-47fd-bb52-ee830f537065" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../login_example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../login_example/login_example/spiders/examplelogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doubanmovie/.idea/doubanmovie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doubanmovie/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doubanmovie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doubanmovie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doubanmovie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doubanmovie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doubanmovie/doubanmovie/spiders/MoviesSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doubanmovie/proxy_list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/spiders/scdx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/splash_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/splash_examples/spiders/QuotesSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/splash_examples/spiders/jd_book.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../login_example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../matplotlib_examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../matplotlib_examples/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scrapy_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapy_book/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1176">
-              <caret line="57" column="92" selection-start-line="57" selection-start-column="92" selection-end-line="57" selection-end-column="92" />
+            <state relative-caret-position="420">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#193#231#0" expanded="true" />
               </folding>
@@ -52,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="87" column="52" selection-start-line="87" selection-start-column="52" selection-end-line="87" selection-end-column="52" />
+            <state relative-caret-position="336">
+              <caret line="67" selection-start-line="67" selection-start-column="2" selection-end-line="72" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -89,6 +107,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ITEM</find>
+      <find>终审已审回</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,16 +118,18 @@
       <list>
         <option value="$PROJECT_DIR$/example/items.py" />
         <option value="$PROJECT_DIR$/example/pipelines.py" />
-        <option value="$PROJECT_DIR$/example/settings.py" />
         <option value="$PROJECT_DIR$/example/spiders/book_spider.py" />
+        <option value="$PROJECT_DIR$/example/settings.py" />
+        <option value="$PROJECT_DIR$/example/spiders/scdx.py" />
+        <option value="$PROJECT_DIR$/scdx.csv" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="382" />
-    <option name="y" value="33" />
-    <option name="width" value="1390" />
-    <option name="height" value="999" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="191" />
+    <option name="y" value="59" />
+    <option name="width" value="1380" />
+    <option name="height" value="1006" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -143,7 +164,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scrapy_book" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -202,12 +223,14 @@
       <workItem from="1555379957599" duration="5895000" />
       <workItem from="1555414447416" duration="1195000" />
       <workItem from="1555484817429" duration="1809000" />
-      <workItem from="1556087518907" duration="637000" />
+      <workItem from="1556087518907" duration="1986000" />
+      <workItem from="1556197771074" duration="1754000" />
+      <workItem from="1556263919120" duration="1330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15606000" />
+    <option name="totallyTimeSpent" value="20039000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,9 +242,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1032" extended-state="7" />
+    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2628205" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26923078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,8 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="57" column="92" selection-start-line="57" selection-start-column="92" selection-end-line="57" selection-end-column="92" />
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#193#231#0" expanded="true" />
           </folding>
@@ -285,10 +309,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scdx.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1175" column="19" selection-start-line="1175" selection-start-column="15" selection-end-line="1175" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/spiders/scdx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#75#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="87" column="52" selection-start-line="87" selection-start-column="52" selection-end-line="87" selection-end-column="52" />
+        <state relative-caret-position="336">
+          <caret line="67" selection-start-line="67" selection-start-column="2" selection-end-line="72" selection-end-column="3" />
         </state>
       </provider>
     </entry>

@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e558f799-a600-4294-9bf5-b37677b7a8ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../login_example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../login_example/login_example/spiders/examplelogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/splash_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splash_examples/splash_examples/spiders/QuotesSpider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../login_example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../matplotlib_examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../matplotlib_examples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +25,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapy_book/spiders/BookSpider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="232">
               <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
             </state>
           </provider>
@@ -58,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="382" />
     <option name="y" value="33" />
     <option name="width" value="1390" />
@@ -97,7 +104,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../splash_examples" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -126,15 +133,16 @@
       <workItem from="1555402911854" duration="1216000" />
       <workItem from="1555414445778" duration="2131000" />
       <workItem from="1555484817528" duration="4541000" />
-      <workItem from="1556090069623" duration="603000" />
+      <workItem from="1556090069623" duration="616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8491000" />
+    <option name="totallyTimeSpent" value="8504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1032" extended-state="7" />
+    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2596154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -180,7 +188,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_book/spiders/BookSpider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="232">
           <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
         </state>
       </provider>
